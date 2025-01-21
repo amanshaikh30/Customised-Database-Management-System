@@ -32,11 +32,11 @@ The **Customised DBMS** is a Java-based console application that simulates basic
    ```  
 2. Compile the program using `javac`:  
    ```bash
-   javac CustomisedDBMS.java
+   javac CustomiseDBMS.java
    ```  
 3. Run the program using `java`:  
    ```bash
-   java CustomisedDBMS
+   java CustomiseDBMS
    ```  
 
 ## Usage  
